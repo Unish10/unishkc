@@ -1,2 +1,2 @@
 # unishkc
-This is my git first repository.
+This is my Git first repository.
